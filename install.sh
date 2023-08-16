@@ -3,4 +3,5 @@
 set -ex
 
 stow bash
+stow tmux
 
